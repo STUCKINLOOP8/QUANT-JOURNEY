@@ -14,4 +14,9 @@ else:
         print("Prime")
    else:
         print("Not prime")
+        
+        
+        
+#mistake : logic
+
      
